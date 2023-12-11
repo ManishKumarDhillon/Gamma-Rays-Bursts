@@ -10,8 +10,7 @@ The analysis encompasses:
 - **Dataset Link**: https://heasarc.gsfc.nasa.gov/w3browse/fermi/fermigbrst.html
 - **Objective**: To identify and understand the different classes within the GRB dataset.
 - **Methodology**: Utilization of GMM for clustering and uncovering underlying structures.
-- **Results**: Insights gained into the underlying structures and patterns present in the Gamma-Ray Burst data.
-
+- **Results**: Found two feature in the T-90 histogram which is consistent with existing theory but found four feature which can be treated as new types of GRB's in nature
 ## Analysis Steps
 
 1. **Data Exploration**: Understanding the characteristics and attributes of the GRB dataset.
