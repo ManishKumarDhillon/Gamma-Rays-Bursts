@@ -7,6 +7,7 @@ This repository contains code and documentation for analyzing the Gamma-Ray Burs
 The analysis encompasses:
 
 - **Dataset Description**: Details regarding the GRB dataset sourced from NASA's FERMI Satellite.
+- **Dataset Link**: https://heasarc.gsfc.nasa.gov/w3browse/fermi/fermigbrst.html
 - **Objective**: To identify and understand the different classes within the GRB dataset.
 - **Methodology**: Utilization of GMM for clustering and uncovering underlying structures.
 - **Results**: Insights gained into the underlying structures and patterns present in the Gamma-Ray Burst data.
